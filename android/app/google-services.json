@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738561070184",
+    "project_id": "netgains-assignment",
+    "storage_bucket": "netgains-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738561070184:android:7d7cf06b0a9221dd6bd7dd",
+        "android_client_info": {
+          "package_name": "com.example.netgains_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738561070184-jflp5eq7m66kpiqjt17730upg9k6625k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXQHjLTPB85Yjf5YtUwCtlv39V8pPofQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738561070184-jflp5eq7m66kpiqjt17730upg9k6625k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
