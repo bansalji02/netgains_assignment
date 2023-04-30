@@ -48,7 +48,7 @@ class _NewsPageState extends State<NewsPage> {
   }
 
   Future<List<Article>> getLatestNews() async {
-    String apiKey = '9e41705b1971450abd0c4d6f7e346287';
+    String apiKey = 'your api key here';
     var url = Uri.parse(
         "http://newsapi.org/v2/top-headlines?country=us&apiKey=$apiKey");
 

@@ -114,14 +114,10 @@ class _CurrentWeatherPageState extends State<CurrentWeatherPage> {
 
   Future getCurrentWeather(double lat , double lon) async {
 
-    // if(lat==null || lon==null){
-    //   lat = 30.2;
-    //   lon =76.0;
-    //
-    // }
+
     Weather weather;
     //String city = 'patiala';
-    String apiKey = '82bd79e7d9e1373bcab9c2371d40b132';
+    String apiKey = 'your api key here';
     var url = Uri.parse(
         'https://api.openweathermap.org/data/2.5/weather?lat=$lat&lon=$lon&appid=$apiKey&units=metric');
 
